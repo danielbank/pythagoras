@@ -1,0 +1,3 @@
+# pythagoras
+
+Pythagoras Puzzle
